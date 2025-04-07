@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3c1542803f9bfb1429ea2992e7a4c8d3
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 17427
+  packageName: BackupProject
+  packageVersion: 0.75
+  assetPath: Assets/BackupProject/Scripts/BackupProject.cs
+  uploadId: 53006
